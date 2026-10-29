@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+.env
+.env.*
+!.env.example
+service_account.json
+*service_account*.json
+*credentials*.json
+*.key
+*.pem
+*.log

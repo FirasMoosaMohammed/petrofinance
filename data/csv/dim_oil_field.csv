@@ -1,0 +1,7 @@
+field_id,field_name,region,field_type
+FLD-NOOR,Al-Noor Reservoir (Simulated),Eastern Province,Onshore Conventional
+FLD-SAFAN-S,Safan Horizon (Simulated),Arabian Gulf,Offshore Deepwater
+FLD-RUB-N,Rub Al-Khali North (Simulated),Southern Desert,Onshore Tight Sand
+FLD-MANIFA-S,Manifa Sound (Simulated),Arabian Gulf,Offshore Shallow Water
+FLD-GHAWAR-A,Ghawar Alpha (Simulated),Eastern Province,Onshore Giant Field
+FLD-SHAYBAH-D,Shaybah Dunes (Simulated),Empty Quarter,Onshore Desert

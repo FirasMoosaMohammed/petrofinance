@@ -1,0 +1,52 @@
+# Python & Virtual Environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+backend/db.sqlite3
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+*.tsbuildinfo
+
+# Secrets, Credentials, & Environment files (NEVER COMMIT)
+.env
+.env.*
+*.env
+backend/.env
+frontend/.env
+!.env.example
+!backend/.env.example
+*.pem
+*.key
+*service_account*.json
+*credentials*.json
+service_account.json
+backend/service_account.json
+
+# Logs & temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Internal developer notes & specifications (NEVER COMMIT)
+IMPLEMENTATION_STATUS.md
+*Implementation_Plan*.md
+*CHEATSHEET*.md
